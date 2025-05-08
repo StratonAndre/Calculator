@@ -1,0 +1,28 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <SolidColorBrush x:Key="BackgroundBrush" Color="#1A237E"/>
+    <SolidColorBrush x:Key="ForegroundBrush" Color="#FFFFFF"/>
+    <SolidColorBrush x:Key="BorderBrush" Color="#303F9F"/>
+    <SolidColorBrush x:Key="DisplayBackgroundBrush" Color="#0D47A1"/>
+    <SolidColorBrush x:Key="DisplayTextBrush" Color="#FFFFFF"/>
+    <SolidColorBrush x:Key="NumberButtonBrush" Color="#3949AB"/>
+    <SolidColorBrush x:Key="NumberButtonHoverBrush" Color="#5C6BC0"/>
+    <SolidColorBrush x:Key="NumberButtonPressedBrush" Color="#7986CB"/>
+    <SolidColorBrush x:Key="OperatorButtonBrush" Color="#283593"/>
+    <SolidColorBrush x:Key="OperatorButtonHoverBrush" Color="#3949AB"/>
+    <SolidColorBrush x:Key="OperatorButtonPressedBrush" Color="#5C6BC0"/>
+    <SolidColorBrush x:Key="EqualsButtonBrush" Color="#00BFA5"/>
+    <SolidColorBrush x:Key="EqualsButtonHoverBrush" Color="#00E5BC"/>
+    <SolidColorBrush x:Key="EqualsButtonPressedBrush" Color="#1DE9B6"/>
+    <SolidColorBrush x:Key="MemoryButtonBrush" Color="#1565C0"/>
+    <SolidColorBrush x:Key="MemoryButtonHoverBrush" Color="#1976D2"/>
+    <SolidColorBrush x:Key="MemoryButtonPressedBrush" Color="#1E88E5"/>
+    <SolidColorBrush x:Key="ClearButtonBrush" Color="#FF6D00"/>
+    <SolidColorBrush x:Key="ClearButtonHoverBrush" Color="#FF8F00"/>
+    <SolidColorBrush x:Key="ClearButtonPressedBrush" Color="#FF9800"/>
+    <SolidColorBrush x:Key="MenuBrush" Color="#1A237E"/>
+    <SolidColorBrush x:Key="MenuItemHoverBrush" Color="#303F9F"/>
+    <SolidColorBrush x:Key="MenuItemPressedBrush" Color="#3949AB"/>
+    
+</ResourceDictionary>

@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net9.0-windows</TargetFramework>
+        <UseWPF>true</UseWPF>
+        <Nullable>disable</Nullable>
+        <Company>Grupa 4</Company>
+        <Authors>Straton Andre Antonio</Authors>
+        <Description>A modern calculator application</Description>
+        <Copyright>Hopes and dreams by ME</Copyright>
+        <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Folder Include="Models\" />
+        <Folder Include="ViewModels\" />
+        <Folder Include="Views\" />
+        <Folder Include="Services\" />
+        <Folder Include="Resources\" />
+        <Folder Include="Themes\" />
+    </ItemGroup>
+</Project>
